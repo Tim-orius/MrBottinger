@@ -1,0 +1,4 @@
+Testfiles
+botvenv
+*.log
+*.env
