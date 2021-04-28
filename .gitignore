@@ -2,3 +2,5 @@ Testfiles
 botvenv
 *.log
 *.env
+*.txt
+warns

@@ -8,4 +8,10 @@ This bot is specifically programmed for my needs. You can check it out for inspi
 
 - Restrict file uploads
 - Analyse sent text files
+- Filter text chat for insults
 
+## Slash Commands
+
+- Ping
+- Upload analysed log file
+- activate / deactivate chat filter
